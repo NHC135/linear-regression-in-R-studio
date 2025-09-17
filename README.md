@@ -13,9 +13,9 @@ It showcases skills relevant to data analysis, statistical modeling, and reprodu
 
 ## 🚀 Overview
 
-**Objective:** Predict a target variable based on one predictor using **linear regression**.  
+**Objective:** Predict a target variable based on one and multiple predictor(s) using **linear regression**.  
 
-**Key Skills Demonstrated:**\
+**Key Skills Demonstrated:**
 - Exploratory Data Analysis 
 - Building and evaluating linear regression models (`lm`)
 - Model interpretation and visualization (`ggplot`)
